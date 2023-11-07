@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cdcatalog.xsl"?>
+<albums>
+	<album publication="1978" xml:lang="en-GB" xml:space="preserve">
+		<title>
+			Music for Airports
+		</title>
+		<artist>
+			Brian Eno
+		</artist>
+	</album>
+	<album publication="2019" xml:lang="en-US" xml:space="preserve">
+		<title>
+			Highwomen
+		</title>
+		<artist>
+			Highwomen
+		</artist>
+		<cover>
+			<imagedata fileref="../resources/Highwomen.jpg" />
+		</cover>
+	</album>
+	<album publication="1999" xml:lang="en-US" xml:space="preserve">
+		<title>
+			S&amp;M
+		</title>
+		<artist>
+			Metallica
+		</artist>
+	</album>
+</albums>

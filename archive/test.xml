@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" type="text/css" href="/formate.css"?>
+
+<!DOCTYPE albums SYSTEM "declarations.dtd">
+
+<albums xmlns="http://albums.com/list">
+	<album publication="1978" xml:lang="en-GB" xml:space="preserve" >
+		<title>
+			Music for Airports
+		</title>
+		<artist>
+			Brian Eno
+		</artist>
+	</album>
+	<album publication="2019" xml:lang="en-US" xml:space="preserve">
+		<title>
+			Highwomen
+		</title>
+		<artist>
+			Highwomen
+		</artist>
+	</album>
+	<album publication="2000" xml:lang="en-US" xml:space="preserve">
+		<title>
+			S&amp;M
+		</title>
+		<artist>
+			Metallica
+		</artist>
+	</album>
+</albums>
+
+<!-- A list of music albums -->

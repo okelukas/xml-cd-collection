@@ -1,0 +1,10 @@
+<!DOCTYPE albums [
+	<!ELEMENT albums (#PCDATA)>
+    <!ELEMENT album (title, atist)>
+    <!ATTLIST album
+    publication CDATA #REQUIRED
+    xml:lang CDATA #REQUIRED>
+	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT artist (#PCDATA)>
+	<!ELEMENT albums (album+)>
+]>
